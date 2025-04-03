@@ -46,6 +46,10 @@ This repository contains a collection of deep learning models for remote sensing
 - `[JAG 2022]` [[paper]](https://linkinghub.elsevier.com/retrieve/pii/S1569843222001248)
   J. Li, D. Hong, L. Gao, J. Yao, K. Zheng, B. Zhang and J. Chanussot, "**Deep Learning in Multimodal Remote Sensing Data Fusion: A Comprehensive Review**," *<ins>International Journal of Applied Earth Observation and Geoinformation</ins>*, vol. 112, pp. 102926, Aug. 2022, doi: 10.1016/j.jag.2022.102926.
 
+- `[Sensors 2025]` [[paper]](https://www.mdpi.com/1424-8220/25/4/1093)
+  Lian, Z., Zhan, Y., Zhang, W., Wang, Z., Liu, W., & Huang, X., "**Recent Advances in Deep Learning-Based Spatiotemporal Fusion Methods for Remote Sensing Images**," *<ins>Sensors</ins>*, vol. 25, no. 4, pp. 1093, Feb. 2025, doi: 10.3390/s25041093.
+
+
 <!-- Add your survey papers here -->
 
 <span id="head1"></span>
