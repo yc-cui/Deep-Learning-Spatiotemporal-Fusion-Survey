@@ -1,5 +1,9 @@
 # A Decade of Deep Learning for Remote Sensing Spatiotemporal Fusion: Advances, Challenges, and Opportunities
 
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/>  <img src="https://img.shields.io/badge/CNN-16-FF6F00" alt="CNN"/>  <img src="https://img.shields.io/badge/Transformer-5-FF6F00" alt="Transformer"/>  <img src="https://img.shields.io/badge/GAN-5-FF6F00" alt="GAN"/>  <img src="https://img.shields.io/badge/Diffusion-4-FF6F00" alt="Diffusion"/>  <img src="https://img.shields.io/badge/Sequence%20Models-3-FF6F00" alt="Sequence Models"/>  <img src="https://img.shields.io/badge/Others-5-FF6F00" alt="Others"/>  ![Stars](https://img.shields.io/github/stars/yc-cui/Deep-Learning-Spatiotemporal-Fusion-Survey)
+
+This repository contains a collection of deep learning models for remote sensing spatiotemporal fusion. It includes sections on relevant survey papers, various deep learning model categories, and commonly used datasets in the field. The repository aims to serve as a helpful reference for researchers and practitioners. Paper: [https://arxiv.org/abs/2504.00901](https://arxiv.org/abs/2504.00901)
+
 
 <p align="center">
   <img src="README.assets/wordcloud.jpg" alt="Timeline of Deep Learning Methods for Remote Sensing Spatiotemporal Fusion" width="900"/>
@@ -10,9 +14,6 @@
   <img src="README.assets/timeline.png" alt="Timeline of Deep Learning Methods for Remote Sensing Spatiotemporal Fusion" width="900"/>
 </p>
 
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/>  <img src="https://img.shields.io/badge/CNN-16-FF6F00" alt="CNN"/>  <img src="https://img.shields.io/badge/Transformer-5-FF6F00" alt="Transformer"/>  <img src="https://img.shields.io/badge/GAN-5-FF6F00" alt="GAN"/>  <img src="https://img.shields.io/badge/Diffusion-4-FF6F00" alt="Diffusion"/>  <img src="https://img.shields.io/badge/Sequence%20Models-3-FF6F00" alt="Sequence Models"/>  <img src="https://img.shields.io/badge/Others-5-FF6F00" alt="Others"/>  ![Stars](https://img.shields.io/github/stars/yc-cui/Deep-Learning-Spatiotemporal-Fusion-Survey)
-
-This repository contains a collection of deep learning models for remote sensing spatiotemporal fusion. It includes sections on relevant survey papers, various deep learning model categories, and commonly used datasets in the field. The repository aims to serve as a helpful reference for researchers and practitioners. Paper: [https://arxiv.org/abs/2504.00901](https://arxiv.org/abs/2504.00901)
 
 # Table of contents
 
