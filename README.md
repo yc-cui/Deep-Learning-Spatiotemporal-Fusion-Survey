@@ -7,6 +7,23 @@ This repository contains a collection of deep learning models for remote sensing
 
 Code implementation for deep spatiotemporal fusion models: Please refer to the [code](https://github.com/yc-cui/Deep-Learning-Spatiotemporal-Fusion-Survey/tree/main/code) folder.
 
+
+
+If this work is helpful, please kindly cite our paper:
+
+```bibtex
+@misc{sun2025decadedeeplearningremote,
+      title={A Decade of Deep Learning for Remote Sensing Spatiotemporal Fusion: Advances, Challenges, and Opportunities}, 
+      author={Enzhe Sun and Yongchuan Cui and Peng Liu and Jining Yan},
+      year={2025},
+      eprint={2504.00901},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2504.00901}, 
+}
+```
+
+
 <p align="center">
   <img src="README.assets/wordcloud.jpg" alt="Timeline of Deep Learning Methods for Remote Sensing Spatiotemporal Fusion" width="900"/>
 </p>
