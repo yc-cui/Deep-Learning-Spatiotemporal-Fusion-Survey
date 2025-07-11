@@ -1,9 +1,11 @@
 # A Decade of Deep Learning for Remote Sensing Spatiotemporal Fusion: Advances, Challenges, and Opportunities
 
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/>  <img src="https://img.shields.io/badge/CNN-16-FF6F00" alt="CNN"/>  <img src="https://img.shields.io/badge/Transformer-5-FF6F00" alt="Transformer"/>  <img src="https://img.shields.io/badge/GAN-5-FF6F00" alt="GAN"/>  <img src="https://img.shields.io/badge/Diffusion-4-FF6F00" alt="Diffusion"/>  <img src="https://img.shields.io/badge/Sequence%20Models-3-FF6F00" alt="Sequence Models"/>  <img src="https://img.shields.io/badge/Others-5-FF6F00" alt="Others"/>  ![Stars](https://img.shields.io/github/stars/yc-cui/Deep-Learning-Spatiotemporal-Fusion-Survey)
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/>  <img src="https://img.shields.io/badge/CNN-16-FF6F00" alt="CNN"/>  <img src="https://img.shields.io/badge/Transformer-5-FF6F00" alt="Transformer"/>  <img src="https://img.shields.io/badge/GAN-5-FF6F00" alt="GAN"/>  <img src="https://img.shields.io/badge/Diffusion-4-FF6F00" alt="Diffusion"/>  <img src="https://img.shields.io/badge/Sequence%20Models-3-FF6F00" alt="Sequence Models"/>  <img src="https://img.shields.io/badge/Others-6-FF6F00" alt="Others"/>  ![Stars](https://img.shields.io/github/stars/yc-cui/Deep-Learning-Spatiotemporal-Fusion-Survey)
 
-This repository contains a collection of deep learning models for remote sensing spatiotemporal fusion. It includes sections on relevant survey papers, various deep learning model categories, and commonly used datasets in the field. The repository aims to serve as a helpful reference for researchers and practitioners. Paper: [https://arxiv.org/abs/2504.00901](https://arxiv.org/abs/2504.00901)
+This repository contains a collection of deep learning models for remote sensing spatiotemporal fusion. It includes sections on relevant survey papers, various deep learning model categories, and commonly used datasets in the field. The repository aims to serve as a helpful reference for researchers and practitioners. Paper: [https://arxiv.org/abs/2504.00901v2](https://arxiv.org/abs/2504.00901v2)
 
+
+Code implementation for deep spatiotemporal fusion models: Please refer to the [code](https://github.com/yc-cui/Deep-Learning-Spatiotemporal-Fusion-Survey/tree/main/code) folder.
 
 <p align="center">
   <img src="README.assets/wordcloud.jpg" alt="Timeline of Deep Learning Methods for Remote Sensing Spatiotemporal Fusion" width="900"/>
@@ -297,6 +299,12 @@ M. Jiang and H. Shao, "**A CNN-Transformer Combined Remote Sensing Imagery Spati
   *<ins>IEEE J. Sel. Top. Appl. Earth Obs. Remote Sens.</ins>*, vol. 17, pp. 19048-19066, 2024, doi: 10.1109/JSTARS.2024.3463750.
 
   <img src="README.assets/SDCS.png" alt="SDCS" style="zoom:40%;" />  
+
+- `[RSE 2025 RealFusion]` [[paper]](https://linkinghub.elsevier.com/retrieve/pii/S0034425725000938) 
+  ![No Official Code](https://img.shields.io/badge/No%20Official%20Code-red) 
+  D. Guo, Z. Li, X. Gao, M. Gao, C. Yu, C. Zhang and W. Shi, "**RealFusion: A Reliable Deep Learning-Based Spatiotemporal Fusion Framework for Generating Seamless Fine-Resolution Imagery**," *<ins>Remote Sensing of Environment</ins>*, vol. 321, pp. 114689, May 2025, doi: 10.1016/j.rse.2025.114689.
+
+  <img src="README.assets/RealFusion.png" alt="RealFusion" style="zoom:40%;" />
 <span id="head2"></span>
 
 # Datasets
