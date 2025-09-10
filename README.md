@@ -1,25 +1,25 @@
-# A Decade of Deep Learning for Remote Sensing Spatiotemporal Fusion: Advances, Challenges, and Opportunities
+# A Decade of Deep Learning for Remote Sensing Spatiotemporal Fusion: Advances, Challenges, and Opportunities. Accepted to [Information Fusion 2026]
 
 <img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/>  <img src="https://img.shields.io/badge/CNN-16-FF6F00" alt="CNN"/>  <img src="https://img.shields.io/badge/Transformer-5-FF6F00" alt="Transformer"/>  <img src="https://img.shields.io/badge/GAN-5-FF6F00" alt="GAN"/>  <img src="https://img.shields.io/badge/Diffusion-4-FF6F00" alt="Diffusion"/>  <img src="https://img.shields.io/badge/Sequence%20Models-3-FF6F00" alt="Sequence Models"/>  <img src="https://img.shields.io/badge/Others-6-FF6F00" alt="Others"/>  ![Stars](https://img.shields.io/github/stars/yc-cui/Deep-Learning-Spatiotemporal-Fusion-Survey)
 
-This repository contains a collection of deep learning models for remote sensing spatiotemporal fusion. It includes sections on relevant survey papers, various deep learning model categories, and commonly used datasets in the field. The repository aims to serve as a helpful reference for researchers and practitioners. Paper: [https://arxiv.org/abs/2504.00901v2](https://arxiv.org/abs/2504.00901v2)
-
-
-Code implementation for deep spatiotemporal fusion models: Please refer to the [code](https://github.com/yc-cui/Deep-Learning-Spatiotemporal-Fusion-Survey/tree/main/code) folder.
+This repository contains a collection of deep learning models for remote sensing spatiotemporal fusion. It includes sections on relevant survey papers, various deep learning model categories, and commonly used datasets in the field. The repository aims to serve as a helpful reference for researchers and practitioners. Code implementation for deep spatiotemporal fusion models: Please refer to the [code](https://github.com/yc-cui/Deep-Learning-Spatiotemporal-Fusion-Survey/tree/main/code) folder.
 
 Should you have any questions, please email: yongchuancui@gmail.com
 
 If this work is helpful, please kindly cite our paper:
 
 ```bibtex
-@misc{sun2025decadedeeplearningremote,
-      title={A Decade of Deep Learning for Remote Sensing Spatiotemporal Fusion: Advances, Challenges, and Opportunities}, 
-      author={Enzhe Sun and Yongchuan Cui and Peng Liu and Jining Yan},
-      year={2025},
-      eprint={2504.00901},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2504.00901}, 
+@article{SUN2026103675,
+title = {A decade of deep learning for remote sensing spatiotemporal fusion: Advances, challenges, and opportunities},
+journal = {Information Fusion},
+volume = {126},
+pages = {103675},
+year = {2026},
+issn = {1566-2535},
+doi = {https://doi.org/10.1016/j.inffus.2025.103675},
+url = {https://www.sciencedirect.com/science/article/pii/S156625352500747X},
+author = {Enzhe Sun and Yongchuan Cui and Peng Liu and Jining Yan},
+keywords = {Spatiotemporal fusion, Deep learning, Remote sensing, Literature review},
 }
 ```
 
@@ -438,3 +438,4 @@ This section contains commonly used datasets for remote sensing spatiotemporal f
   - **Source**: Multi-source
   - **Resolution**: 0.1°, 3-hourly
   - **Region**: Global
+
